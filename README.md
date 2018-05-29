@@ -4,7 +4,7 @@
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.X** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
@@ -13,7 +13,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.X installer and not the Python 2.7 installer.
 
 ### Code
 
@@ -51,3 +51,10 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)
+
+### Description
+
+In this optional project, we will create a decision functions to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features. We start with a simple classification and increase the algorithm's copmlexity until the accuracy hits to 80% at least. 
+
+The project provides us an idea about one of the fundamental concepts of machine learning such as decision tree and we apply
+decision trees to implement results out of the data.
