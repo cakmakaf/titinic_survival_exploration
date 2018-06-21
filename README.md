@@ -20,7 +20,7 @@ Template code is provided in the notebook `titanic_survival_exploration.ipynb` n
 
 ### Run
 
-In a terminal or command window, you can clone the GitHub repository
+In a terminal or command window, navigate to the top-level project directory titanic_survival_exploration/ (that contains this README) and run one of the following commands:
 
 ```
 git clone https://github.com/cakmakaf/titanic_survival_exploration.git
