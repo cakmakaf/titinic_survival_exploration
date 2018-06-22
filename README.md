@@ -1,6 +1,7 @@
 
 ## Project: Titanic Survival Exploration
 
+
 ### Install
 
 This project requires **Python 3.X** and the following Python libraries installed:
